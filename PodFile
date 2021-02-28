@@ -1,0 +1,16 @@
+source 'https://cdn.cocoapods.org/'
+platform :ios, '11.0'
+use_frameworks!
+target ‘HiFiCloud’ do
+pod 'AFNetworking'
+pod 'MJExtension'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'MBProgressHUD'
+pod 'FMDB'
+pod 'GCDWebServer'
+pod 'IQKeyboardManager'
+pod 'CocoaAsyncSocket'
+pod 'Masonry'
+pod 'TZImagePickerController'
+end
